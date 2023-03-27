@@ -1,0 +1,19 @@
+.container{
+    color:rgb(25, 26, 26);
+    background-color:aquamarine;
+    display: inline-block;
+    margin-top: 5%;
+    margin-left: 34%;
+    padding: 50px;
+    font-family:  Calibri, sans-serif;
+    font-weight: bold;
+    font-size: 50px;
+    border-radius: 2rem;
+    
+}
+p{
+    font-size: 20px;
+}
+body{
+    background-color:rgb(165, 93, 42);
+}
