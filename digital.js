@@ -18,15 +18,3 @@ myclock = (()=> {
 }) 
 setInterval(myclock,10);
 
-function changeto12(){
-    
-    if(hrs > 12){
-        hrs = hrs - 12;
-    }
-}
-function changeto24(){
-    
-    if(hrs > 12){
-        hrs = hrs + 12;
-    }
-}
